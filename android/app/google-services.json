@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268601775866",
+    "project_id": "fir-chat-1510c",
+    "storage_bucket": "fir-chat-1510c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268601775866:android:97136c5e27fd0525e21b43",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HDoBnFvsF1ypm3S7LHpKWMCjRGP9FXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
